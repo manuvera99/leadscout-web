@@ -27,3 +27,6 @@ next-env.d.ts
 
 # audit
 .eslintcache
+
+.vercel
+.env*
